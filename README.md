@@ -55,7 +55,7 @@ The CampusBot application was successfully deployed using Vercel.
 
 The deployed application provides students with access to the CampusBot interface through a web browser.
 
-## 9. Project Status
+## 10. Project Status
 
 The AI-based CampusBot application has been developed, tested and deployed successfully.
 ## 8. Conclusion
