@@ -45,6 +45,18 @@ The chatbot was tested using questions related to:
 
 ## 7. Expected Outcome
 A user-friendly AI assistant that helps students access university-related information quickly and conveniently.
+## 8. Deployment
 
+The CampusBot application was successfully deployed using Vercel.
+
+- **Deployment Platform:** Vercel
+- **Source Code Repository:** GitHub
+- **Live Application:** https://campusbot-tawny.vercel.app/
+
+The deployed application provides students with access to the CampusBot interface through a web browser.
+
+## 9. Project Status
+
+The AI-based CampusBot application has been developed, tested and deployed successfully.
 ## 8. Conclusion
 CampusBot demonstrates how generative AI tools can be used to develop an AI-based application that addresses a practical problem in the education sector.
