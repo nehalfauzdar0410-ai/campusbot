@@ -1,0 +1,6 @@
+{
+  "name": "Karnavati University CampusBot – AI Student Assistant",
+  "description": "AI-powered student information assistant for Karnavati University, Gandhinagar, Gujarat, referencing verified public information for UIT B.Tech programmes, admissions, examinations, facilities, and campus contacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
